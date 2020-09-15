@@ -1,0 +1,184 @@
+body {
+  color: black;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+
+}
+
+
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkgreen;
+}
+
+.name {
+  color: #EAF6F6;
+}
+
+.hn2 {
+  color:  #66BFBF;
+  font-weight: normal;
+
+
+}
+
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-width: thick;
+  border-color: palegreen;
+  width: 5%;
+  margin: 100px auto 100px auto;
+
+}
+
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: palegreen;
+  position: relative;
+  padding-top: 100px;
+}
+
+.profile {
+  padding-top: 50px;
+
+
+}
+
+.bottom-container {
+  background-color:  palegreen;
+  padding: 50px 0 20px;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.my-bio {
+  width: 40%;
+  margin: auto;
+}
+
+.my-skills {
+
+}
+
+
+
+
+
+.last {
+  background-color: yellow;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.worker {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 30px;
+}
+
+.MMA {
+  width: 100px;
+  height: 100px;
+  float: right;
+  margin-left: 30px;
+}
+
+.about-me {
+  color: #40514E;
+}
+
+.contact-me{
+  margin: 100px auto 100px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.name{
+  color: darkgreen;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+.btn {
+  background: palegreen;
+  background-image: -webkit-linear-gradient(top, palegreen, palegreen);
+  background-image: -moz-linear-gradient(top, palegreen, palegreen);
+  background-image: -ms-linear-gradient(top, palegreen, palegreen);
+  background-image: -o-linear-gradient(top, palegreen, palegreen);
+  background-image: linear-gradient(to bottom, palegreen, palegreen);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: darkgreen;
+  background-image: -webkit-linear-gradient(top, darkgreen, darkgreen);
+  background-image: -moz-linear-gradient(top, darkgreen, darkgreen);
+  background-image: -ms-linear-gradient(top, darkgreen, darkgreen);
+  background-image: -o-linear-gradient(top, darkgreen, darkgreen);
+  background-image: linear-gradient(to bottom, darkgreen, darkgreen);
+  text-decoration: none;
+}
+
+.btn{
+  margin-top: 20px;
+}
